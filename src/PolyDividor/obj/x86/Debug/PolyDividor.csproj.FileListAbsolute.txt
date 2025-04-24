@@ -1,0 +1,15 @@
+C:\JOB\PolyDividor\PolyDividor\bin\Debug\PolyDividor.exe
+C:\JOB\PolyDividor\PolyDividor\bin\Debug\PolyDividor.pdb
+C:\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.Main.resources
+C:\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.Properties.Resources.resources
+C:\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.csproj.GenerateResource.Cache
+C:\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.exe
+C:\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.pdb
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.exe
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.pdb
+D:\Projects\JOB\PolyDividor\PolyDividor\bin\Debug\PolyDividor.exe
+D:\Projects\JOB\PolyDividor\PolyDividor\bin\Debug\PolyDividor.pdb
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.Main.resources
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.Properties.Resources.resources
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.csproj.GenerateResource.Cache
+D:\Projects\JOB\PolyDividor\PolyDividor\obj\x86\Debug\PolyDividor.csprojResolveAssemblyReference.cache
